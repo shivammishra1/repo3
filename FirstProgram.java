@@ -4,6 +4,7 @@ class FirstProgram
 	public static void main(String[] args) 
 	{
 		System.out.println("Hello World!");
+		System.out.println("Hello !");
 	}
 
 	//pascal convention(for methods):first word's first letter should be in lowercase and
